@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "DevKKU - memo in gitio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "잠들지 못하는 개발자"
+name                     : "-Dev KIUK-"
 description              : "기록을 위한 블로그입니다."
 url                      : "https://kiukkim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
