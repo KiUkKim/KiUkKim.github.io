@@ -25,15 +25,13 @@ last_modified_at: 2021-12-28
 
 - 시간 제한이 여유로워서, 입력된 멤버수로부터 공연장 비용을 처음부터 더해주면서, 모든 경우를 파악하여 해결
 
-<img width="707" alt="1" src="https://user-images.githubusercontent.com/75063989/147629806-97329e50-b6cc-4478-9283-b5236e6f288a.PNG">
-<img width="649" alt="2" src="https://user-images.githubusercontent.com/75063989/147629814-3469f6f0-544f-4260-bb65-58ce62f9dae7.PNG">
-<img width="683" alt="3" src="https://user-images.githubusercontent.com/75063989/147629823-21a989ad-f2d5-4cca-962f-8e10def2f60d.PNG">
-<img width="723" alt="4" src="https://user-images.githubusercontent.com/75063989/147629828-341226e3-1f87-4d44-84e7-5374aee1ad59.PNG">
-
-- 이런식으로 3자리를 예약할 때 비용을 min과 비교하면서 탐색합니다.
+<img width="495" alt="4141" src="https://user-images.githubusercontent.com/75063989/148161769-eddbabb2-74b7-4e7e-94c0-f13860eaf906.PNG">
 
 
 <img width="684" alt="5" src="https://user-images.githubusercontent.com/75063989/147629832-33ab776e-8c5f-462d-b40b-d4ad4fa81cd5.PNG">
+
+- 이런식으로 3자리를 예약할 때 비용을 min과 비교하면서 탐색합니다.
+
 
 - 위의 그림과 같이 3자리를 예약할 때 비용에 대한 탐색이 끝났을 경우, 4자리를 예약할 때 비용에 대한 모든 탐색을 합니다.
 
