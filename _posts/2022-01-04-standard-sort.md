@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
  
 date: 2022-01-04
-last_modified_at: 2022-01-04
+last_modified_at: 2022-01-05
 ---
 
 ## 기본 정렬 알고리즘 [Selection, Insertion, Bubble]
@@ -101,5 +101,5 @@ last_modified_at: 2022-01-04
 * 시간 복잡도가 O(n^2)으로 비효율적이다.
 
 #### 구현 코드
-{% KiUkKim/174e69282aa29e090fbae3532f052cb9 %}
+{% gist KiUkKim/174e69282aa29e090fbae3532f052cb9 %}
 
