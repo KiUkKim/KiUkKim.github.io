@@ -1,5 +1,5 @@
 ---
-title:  "[Algorithm, C++ ], 최단 경로 알고리즘 Floyd Warshall [수정 중]"
+title:  "[Algorithm, C++ ], 최단 경로 알고리즘 Floyd Warshall"
 excerpt: "Floyd Warshall Algorithm"
 
 categories:
@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
  
 date: 2022-01-19
-last_modified_at: 2022-01-19
+last_modified_at: 2022-02-10
 ---
 
 
@@ -98,4 +98,4 @@ last_modified_at: 2022-01-19
 
 ### * 참조 사이트
 
-<a href=https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221234427842&proxyReferer=https:%2F%2Fwww.google.com%2F>나동빈님의 Floyd Warshall 포스팅</a>을 참조하였습니다.
+<a href='https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221234427842&proxyReferer=https:%2F%2Fwww.google.com%2F'>나동빈님의 Floyd Warshall 포스팅</a>을 참조하였습니다.
