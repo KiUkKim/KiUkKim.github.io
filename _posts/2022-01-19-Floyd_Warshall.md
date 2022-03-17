@@ -94,7 +94,7 @@ last_modified_at: 2022-02-10
 
 ### * 예시 코드
 
-{% gist KiUkKim/1f398bce7ba59dd4d19fd7739d0beb33"%}
+{% gist KiUkKim/1f398bce7ba59dd4d19fd7739d0beb33 %}
 
 ### * 참고 사이트
 
