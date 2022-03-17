@@ -96,6 +96,6 @@ last_modified_at: 2022-02-10
 
 {% gist KiUkKim/1f398bce7ba59dd4d19fd7739d0beb33"%}
 
-### * 참조 사이트
+### * 참고 사이트
 
-<a href='https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221234427842&proxyReferer=https:%2F%2Fwww.google.com%2F'>나동빈님의 Floyd Warshall 포스팅</a>을 참조하였습니다.
+<a href='https://m.blog.naver.com/PostView.nhn?blogId=ndb796&logNo=221234427842&proxyReferer=https:%2F%2Fwww.google.com%2F'>나동빈님의 Floyd Warshall 포스팅</a>을 참고하였습니다.
