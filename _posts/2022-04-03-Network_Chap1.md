@@ -70,15 +70,17 @@ last_modified_at: 2022-04-13
 </ul>
   
 ### - service view
-  <ol>
-    <ol> 인터넷은 어플리케이션들에게 서비스를 제공하는 기반시설이다.
-    </ol>
-    <ol>
-    <ol> 이러한 어플리케이션들은 Web, VoIP, email, games 등이 존재한다.</ol>
 
-  <ol>인터넷은 application 위에서 돌아간다.</ol>
+  <ol> 
+      -인터넷은 어플리케이션들에게 서비스를 제공하는 기반시설이다.
+  </ol>
 
-  <ol>패킷 스위치들이 end system끼리의 데이터 교환을 활성화시키지만, 패킷 스위치들이 데이터를 자체적으로 생성하거나 소모하는 application과는 관계가 없다.</ol></ol>
+  <ol> -이러한 어플리케이션들은 Web, VoIP, email, games 등이 존재한다.
+  </ol>
+
+  <ol>-인터넷은 application 위에서 돌아간다.</ol>
+
+  <ol>-패킷 스위치들이 end system끼리의 데이터 교환을 활성화시키지만, 패킷 스위치들이 데이터를 자체적으로 생성하거나 소모하는 application과는 관계가 없다.</ol>
 
   <hr>
 
