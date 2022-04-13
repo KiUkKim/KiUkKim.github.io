@@ -70,7 +70,7 @@ last_modified_at: 2022-04-13
 </ul>
   
 ### - service view
-  <>
+  <ol>
     <ol> 인터넷은 어플리케이션들에게 서비스를 제공하는 기반시설이다.
     </ol>
     <ol>
